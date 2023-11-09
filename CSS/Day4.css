@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+}
+
+ul{
+   list-style: outside square;
+
+    color: red;
+    list-style-type: decimal-leading-zero;
+    list-style-position:outside ;
+    list-style-image: url(heart_minus_FILL0_wght400_GRAD0_opsz24.png) ;
+}
+
+table,th,td{
+    border: 3px solid tomato;
+    border-collapse:collapse ;
+    text-align: left;
+}
+table{
+    width: 50%;
+}
+th,td{
+    color: rgb(27, 27, 27);
+}
+h1{
+    text-align: center;
+    display: inline-block;
+}
+span{
+    text-align: center;
+    display: block;
+}
+
+h2{
+    display: inline-block;
+    
+}
+.samp1{
+
+}
+
+.ul1,.l{
+    display: inline;
+
+}

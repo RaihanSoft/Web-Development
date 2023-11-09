@@ -1,0 +1,29 @@
+
+h2{
+    color: rgb(20, 20, 20)
+}
+body
+{
+    background-color: rgb(238, 241, 241);
+}
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: right;
+} 
+
+.p1{
+    border-width:2px ; 
+    border-style: solid;
+    border-color:forestgreen;
+    color: burlywood;
+    
+  
+}
+#p2{
+    border-width: 2px;
+    border-style: solid;
+    border-color: brown;
+    color: brown;
+}
+
